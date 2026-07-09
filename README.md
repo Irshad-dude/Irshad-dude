@@ -6,8 +6,8 @@ Here’s a glimpse into my coding world:
 
 - 🌍 I'm from Udaipur, India
 - 📫 Reach me at: [alam.irshad2511@gmail.com](mailto:alam.irshad2511@gmail.com)
-- 🚀 My Portfolio: Coming Soon!
-- 🌱 Currently learning **Backend Development**
+- 🚀 My Portfolio: https://irsh-protfolio.netlify.app
+- 🌱 Currently learning **AI Agent**
 
 ---
 
