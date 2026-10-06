@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 I am a passionate Software Engineer 🚀, always exploring and learning new technologies.  
 Here’s a glimpse into my coding world:
 
-- 🌍 I'm from Udaipur, India
+- 🌍 I'm from Delhi, India
 - 📫 Reach me at: [alam.irshad2511@gmail.com](mailto:alam.irshad2511@gmail.com)
 - 🚀 My Portfolio: https://irsh-protfolio.netlify.app
 - 🌱 Currently learning **AI Agents**
